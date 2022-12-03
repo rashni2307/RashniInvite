@@ -1,0 +1,18 @@
+{
+  "hosting": {
+    "public": "dist/invitationCards",
+    
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+{
+  "source": "**", 
+  "destination": "/index.html"
+}
+    ]
+  }
+
+}
