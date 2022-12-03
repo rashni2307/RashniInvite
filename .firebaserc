@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "receptioninvite-62615",
+    "receptionInvite": "receptioninvite-62615",
+    "receptionRR": "receptioninvite-62615"
+  },
+  "targets": {},
+  "etags": {}
+}
