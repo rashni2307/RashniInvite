@@ -5,6 +5,14 @@
     "receptionRR": "receptioninvite-62615",
     "weddig": "rashwedding-4308d"
   },
-  "targets": {},
+  "targets": {
+    "rashwedding-4308d": {
+      "hosting": {
+        "website": [
+          "rashWedding"
+        ]
+      }
+    }
+  },
   "etags": {}
 }
